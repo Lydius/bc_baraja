@@ -14,3 +14,5 @@ def crearBaraja():
 crearBaraja()
 
 print(baraja)
+
+
